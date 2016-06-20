@@ -8,5 +8,15 @@
 
 import Foundation
 
-print("Hello, World!")
+var a=0
+var b=0
+while 101>a{
+    
+    b=a+b
+    
+    print(b)
+    
+    a++
+}
+
 
